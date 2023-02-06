@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[76485],{67542:function(e){e.exports=JSON.parse('{"label":"\u6280\u5de7","permalink":"/notes/tags/\u6280\u5de7","allTagsPath":"/notes/tags","count":1,"items":[{"id":"java/maven","title":"Maven","description":"Tips","permalink":"/notes/java/maven"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[24261],{73762:function(e){e.exports=JSON.parse('{"label":"Devlopment","permalink":"/notes/tags/devlopment","allTagsPath":"/notes/tags","count":1,"items":[{"id":"db/column/scylladb-dev","title":"ScyllaDB \u5f00\u53d1","description":"- Batch","permalink":"/notes/db/column/scylladb-dev"}]}')}}]);
